@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "PennyLane-qsharp",
+  "versions": [
+    {
+      "commit": "cdbf79a94611bcf96bc3cd31858e3714e9836cca",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:41:57.269953+00:00"
+    }
+  ]
+}
